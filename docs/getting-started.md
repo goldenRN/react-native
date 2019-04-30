@@ -115,7 +115,7 @@ cd AwesomeProject
 npm start # you can also use: expo start
 ```
 
-Ингэснээр та хөгжүүлэлтийн сервер асна.
+Ингэснээр таны хөгжүүлэлтийн сервер асна.
 
 ## React Native дээрх аппаа ажиллуулах
 
